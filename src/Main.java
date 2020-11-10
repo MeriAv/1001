@@ -2,7 +2,6 @@ public class Main {
     public static void main (String[] args) {
         int start = 10;
         int refill = 2300;
-        int result = start / refill;
         int hundred = 100;
         int calculation = refill / hundred;
         int bonus = 0;
